@@ -6,7 +6,7 @@
     {
     "description": "Yoga  improves heart health by increasing circulation and blood flow. In addition, practicing yoga can help lower blood pressure, cholesterol, and blood glucose levels, as well as the heart rate — which can all add up to a lower risk of hypertension, stroke, and heart disease.",
     "sources": [
-    "https://www.googleapis.com.youtube/watch?v=wrECGnoJPLg"
+    "<iframe width="900" height="506" src="https://www.youtube.com/embed/5_5oE5lgrhw?list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>"
     ],
     "subtitle": "By Baba Ramdev",
     "thumb": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mnx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=600";
