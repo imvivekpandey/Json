@@ -40,6 +40,13 @@
          "subject":"Android",
          "class held":"45",
          "class attended":"55"
+      },
+      {
+        "sem":"7th Semester",
+         "sl.no":"1",
+         "subject":"web dev",
+         "class held":"45",
+         "class attended":"55"
       }
    ]
 }
