@@ -1,1 +1,45 @@
-
+{
+   "semester":[
+      {
+         "sem":"1st Semester",
+         "sl.no":"1",
+         "subject":"java",
+         "class held":"45",
+         "class attended":"25"
+      },
+      {
+         "sem":"2nd Semester",
+         "sl.no":"1",
+         "subject":"c++",
+         "class held":"5",
+         "class attended":"5"
+      },
+      {  "sem":"3rd Semester",
+         "sl.no":"1",
+         "subject":"python",
+         "class held":"25",
+         "class attended":"15"
+      },
+      {
+         "sem":"4th Semester",
+         "sl.no":"1",
+         "subject":"Opertaing system",
+         "class held":"25",
+         "class attended":"20"
+      },
+      {
+         "sem":"5th Semester",
+         "sl.no":"1",
+         "subject":"COA",
+         "class held":"45",
+         "class attended":"25"
+      },
+      {
+        "sem":"6th Semester",
+         "sl.no":"1",
+         "subject":"Android",
+         "class held":"45",
+         "class attended":"55"
+      }
+   ]
+}
